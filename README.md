@@ -3,6 +3,11 @@
 An implementation of the Go Back N protocol, in Python.
 
 **Project Description**: [Please click here](https://github.com/gms298/Go-back-N-ARQ-Protocol/tree/master/Project%20Description)
+
+## Developers
+
+**Manoj Sharan** & **Anthony Scalabrino**
+
 ## GENERATE FILE TEST FILE
 
 1.	Open Terminal on Ubuntu and use this command `dd if=/dev/zero of=testfile.txt bs=1 count=0 seek=1195K`
